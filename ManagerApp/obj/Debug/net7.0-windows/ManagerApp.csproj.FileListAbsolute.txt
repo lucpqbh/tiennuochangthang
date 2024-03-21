@@ -1,0 +1,72 @@
+E:\trieut6\C#\ManagerApp\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.exe
+E:\trieut6\C#\ManagerApp\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.deps.json
+E:\trieut6\C#\ManagerApp\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.runtimeconfig.json
+E:\trieut6\C#\ManagerApp\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.dll
+E:\trieut6\C#\ManagerApp\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.pdb
+E:\trieut6\C#\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.FormLogin.resources
+E:\trieut6\C#\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.csproj.GenerateResource.cache
+E:\trieut6\C#\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\trieut6\C#\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.AssemblyInfoInputs.cache
+E:\trieut6\C#\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.AssemblyInfo.cs
+E:\trieut6\C#\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.csproj.CoreCompileInputs.cache
+E:\trieut6\C#\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.dll
+E:\trieut6\C#\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\refint\ManagerApp.dll
+E:\trieut6\C#\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.pdb
+E:\trieut6\C#\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.genruntimeconfig.cache
+E:\trieut6\C#\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ref\ManagerApp.dll
+E:\trieut6\C#\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.FormHome.resources
+E:\trieut6\C#\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.FormDashboard.resources
+D:\download web\ManagerApp\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.exe
+D:\download web\ManagerApp\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.deps.json
+D:\download web\ManagerApp\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.runtimeconfig.json
+D:\download web\ManagerApp\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.dll
+D:\download web\ManagerApp\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.pdb
+D:\download web\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.FormDashboard.resources
+D:\download web\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.FormHome.resources
+D:\download web\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.FormLogin.resources
+D:\download web\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.csproj.GenerateResource.cache
+D:\download web\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\download web\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.AssemblyInfoInputs.cache
+D:\download web\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.AssemblyInfo.cs
+D:\download web\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.csproj.CoreCompileInputs.cache
+D:\download web\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.dll
+D:\download web\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\refint\ManagerApp.dll
+D:\download web\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.pdb
+D:\download web\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.genruntimeconfig.cache
+D:\download web\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ref\ManagerApp.dll
+C:\Users\HP\Desktop\qqqqqq\ManagerApp\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.exe
+C:\Users\HP\Desktop\qqqqqq\ManagerApp\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.deps.json
+C:\Users\HP\Desktop\qqqqqq\ManagerApp\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.runtimeconfig.json
+C:\Users\HP\Desktop\qqqqqq\ManagerApp\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.dll
+C:\Users\HP\Desktop\qqqqqq\ManagerApp\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.pdb
+C:\Users\HP\Desktop\qqqqqq\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.FormDashboard.resources
+C:\Users\HP\Desktop\qqqqqq\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.FormHome.resources
+C:\Users\HP\Desktop\qqqqqq\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.FormLogin.resources
+C:\Users\HP\Desktop\qqqqqq\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\qqqqqq\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\qqqqqq\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\qqqqqq\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\qqqqqq\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\qqqqqq\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.dll
+C:\Users\HP\Desktop\qqqqqq\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\refint\ManagerApp.dll
+C:\Users\HP\Desktop\qqqqqq\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.pdb
+C:\Users\HP\Desktop\qqqqqq\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.genruntimeconfig.cache
+C:\Users\HP\Desktop\qqqqqq\ManagerApp\ManagerApp\obj\Debug\net7.0-windows\ref\ManagerApp.dll
+C:\Users\HP\Desktop\Vietsucsinh\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.FormDashboard.resources
+C:\Users\HP\Desktop\Vietsucsinh\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.FormHome.resources
+C:\Users\HP\Desktop\Vietsucsinh\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.FormLogin.resources
+C:\Users\HP\Desktop\Vietsucsinh\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Vietsucsinh\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Vietsucsinh\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Vietsucsinh\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\Vietsucsinh\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Vietsucsinh\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.dll
+C:\Users\HP\Desktop\Vietsucsinh\ManagerApp\obj\Debug\net7.0-windows\refint\ManagerApp.dll
+C:\Users\HP\Desktop\Vietsucsinh\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.pdb
+C:\Users\HP\Desktop\Vietsucsinh\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.exe
+C:\Users\HP\Desktop\Vietsucsinh\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.deps.json
+C:\Users\HP\Desktop\Vietsucsinh\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.runtimeconfig.json
+C:\Users\HP\Desktop\Vietsucsinh\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.dll
+C:\Users\HP\Desktop\Vietsucsinh\ManagerApp\bin\Debug\net7.0-windows\ManagerApp.pdb
+C:\Users\HP\Desktop\Vietsucsinh\ManagerApp\obj\Debug\net7.0-windows\ManagerApp.genruntimeconfig.cache
+C:\Users\HP\Desktop\Vietsucsinh\ManagerApp\obj\Debug\net7.0-windows\ref\ManagerApp.dll
